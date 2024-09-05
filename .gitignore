@@ -1,4 +1,5 @@
+.vscode/
 *.Zone.Identifier
 node_modules/
 dist/
-.vscode/
+result_images/
